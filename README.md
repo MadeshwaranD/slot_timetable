@@ -32,22 +32,22 @@ Execute the program using runserver command.
     </head>
     <body>
         <center>
-             <img> src="c:\Users\acer\OneDrive\Pictures\Pictures\Screenshots\Screenshot 2026-05-21 173203.png" height="100" ; width="540">
+             <img src="c:\Users\acer\OneDrive\Pictures\Pictures\Screenshots\Screenshot 2026-05-21 173203.png" height="100" ; width="540">
         </center>
         <br>
-        <table> align="center" width="540" bgcolor="LIGHTGRAY" cellspacing="0" cellpadding="4" border >
+        <table align="center" width="540" bgcolor="LIGHTGRAY" cellspacing="0" cellpadding="4" border >
             <caption><b>SLOT TIME TABLE - MADESHWARAN D (212225040212)</b></caption>
-            <tr> align="center">
-                <th> bgcolor="yellow">Day/Time</th>
-                <th> bgcolor="yellow">Monday</th>
-                <th> bgcolor="yellow">Tuesday</th>
-                <th> bgcolor="yellow">Wednesday</th>
-                <th> bgcolor="yellow">Thursday</th>
-                <th> bgcolor="yellow">Friday</th>
-                <th> bgcolor="yellow">Saturday</th>
+            <tr align="center">
+                <th bgcolor="yellow">Day/Time</th>
+                <th bgcolor="yellow">Monday</th>
+                <th bgcolor="yellow">Tuesday</th>
+                <th bgcolor="yellow">Wednesday</th>
+                <th bgcolor="yellow">Thursday</th>
+                <th bgcolor="yellow">Friday</th>
+                <th bgcolor="yellow">Saturday</th>
             </tr>
-            <tr> align="center">
-                <th> bgcolor="ORANGE">8-10</th>
+            <tr align="center">
+                <th bgcolor="ORANGE">8-10</th>
                 <td>PYTHON PROGRAMMING</td>
                 <td>FREE SLOT</td>
                 <td>PYTHON PROGRAMMING</td>
@@ -55,8 +55,8 @@ Execute the program using runserver command.
                 <td>FREE SLOT</td>
                 <td>FREE SLOT</td>
             </tr>
-            <tr> align="center">
-                <th> bgcolor="ORANGE">10-12</th>
+            <tr align="center">
+                <th bgcolor="ORANGE">10-12</th>
                 <td>FREE SLOT</td>
                 <td>FUNDAMENTALS OF WEB APPLICATION</td>
                 <td>FUNDAMENTALS OF WEB APPLICATION</td>
@@ -64,12 +64,12 @@ Execute the program using runserver command.
                 <td>FUNDAMENTALS OF WEB APPLICATION</td>
                 <td>FREE SLOT</td>
             </tr>
-            <tr> align="center">
-                <th> bgcolor="ORANGE">12-1</th>
-                <th> colspan="5" align="center"><b>LUNCH</b></th>
+            <tr align="center">
+                <th bgcolor="ORANGE">12-1</th>
+                <th colspan="5" align="center"><b>LUNCH</b></th>
             </tr>
-            <tr> align="center">
-                <th> bgcolor="ORANGE">1-3</th>
+            <tr align="center">
+                <th bgcolor="ORANGE">1-3</th>
                 <td>FREE SLOTT</td>
                 <td>FUNDAMENTALS OF WEB APPLICATION</td>
                 <td>MENTOR MEET</td>
@@ -77,8 +77,8 @@ Execute the program using runserver command.
                 <td>FREE SLOT</td>
                 <td>FREE SLOT</td>
             </tr>
-            <tr> align="center">
-                <th> bgcolor="ORANGE">3-5</th>
+            <tr align="center">
+                <th bgcolor="ORANGE">3-5</th>
                 <td>FREE SLOT</td>
                 <td>FREE SLOT</td>
                 <td>FREE SLOT</td>
@@ -88,8 +88,8 @@ Execute the program using runserver command.
             </tr>
         </table>
         <br>
-        <table></table> align="center" cellspacing="2" cellpadding="4" bgcolor="gold" border="2">
-            <tr> align="center">
+        <table align="center" cellspacing="2" cellpadding="4" bgcolor="gold" border="2">
+            <tr align="center">
                 <th>S.no</th>
                 <th>Subject Code</th>
                 <th>Subject Name</th>
